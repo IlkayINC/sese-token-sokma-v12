@@ -1,5 +1,5 @@
 echo off
-title Token Ses Giriş - İlkay's Code
+title  Ilkay's Code
 color b
 cls
 :a
